@@ -1,10 +1,10 @@
-# 关于我
+# 我
 
 混迹于安全圈的脚本老子
 
 ![Richard-Tang's github stats](https://github-readme-stats.vercel.app/api?username=Richard-Tang&theme=merko) 
 
-# 关于团队
+# 团队
 
 官网： [www.mask-sec.com](https://www.mask-sec.com/)
 
