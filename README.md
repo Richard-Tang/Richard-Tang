@@ -14,8 +14,6 @@ Wiki：[wiki.mask-sec.com](https://wiki.mask-sec.com/user/login)
 
 团队开源地址：[MaskCyberSecurityTeam](https://github.com/MaskCyberSecurityTeam)
 
-公众号: Mask安全小组
-
 ![image](https://user-images.githubusercontent.com/30547741/215334351-0a3b48bb-e08d-40ef-9210-796086e10c0d.png)
 
 # 文章
