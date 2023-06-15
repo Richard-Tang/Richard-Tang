@@ -6,11 +6,9 @@
 
 # 团队
 
-官网： [www.mask-sec.com](https://www.mask-sec.com/)
+官网： [www.mask-sec.com](https://www.masksec.com/)
 
-博客： [blog.mask-sec.com](https://blog.mask-sec.com/)
-
-Wiki：[wiki.mask-sec.com](https://wiki.mask-sec.com/user/login)
+博客： [blog.mask-sec.com](https://blog.masksec.com/)
 
 团队开源地址：[MaskCyberSecurityTeam](https://github.com/MaskCyberSecurityTeam)
 
